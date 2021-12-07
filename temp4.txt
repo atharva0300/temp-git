@@ -1,1 +1,5 @@
 created a temp4.txt file 
+<<<<<<< HEAD
+=======
+chaged 
+>>>>>>> main
